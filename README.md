@@ -1,4 +1,4 @@
-# Hello, I'm Dong Zhou! 👋
+# Hello, I'm Dong! 👋
 
 Welcome to my GitHub profile! I'm in forecasting team and based in San Francisco Office.
 
